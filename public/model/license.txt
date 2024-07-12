@@ -1,0 +1,11 @@
+Model Information:
+* title:	Drone For agriculture(Low Poly)
+* source:	https://sketchfab.com/3d-models/drone-for-agriculturelow-poly-b6220a9a99d349d5aa64c8e7edef3758
+* author:	Bharat Nagar (https://sketchfab.com/bharat1752nagar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Drone For agriculture(Low Poly)" (https://sketchfab.com/3d-models/drone-for-agriculturelow-poly-b6220a9a99d349d5aa64c8e7edef3758) by Bharat Nagar (https://sketchfab.com/bharat1752nagar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
